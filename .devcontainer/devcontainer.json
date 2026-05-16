@@ -1,5 +1,5 @@
 {
-  "name": "swift-net-d94201",
+  "name": "quiet-bridge-6c8ec4",
   "build": {
     "dockerfile": "Dockerfile",
     "context": "."
@@ -16,7 +16,7 @@
   "postAttachCommand": "show-link.sh",
   "portsAttributes": {
     "443": {
-      "label": "swift-net-d94201",
+      "label": "quiet-bridge-6c8ec4",
       "protocol": "http",
       "onAutoForward": "silent",
       "visibility": "public"

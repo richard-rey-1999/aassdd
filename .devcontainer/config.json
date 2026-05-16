@@ -1,7 +1,7 @@
 {
   "log": {
     "loglevel": "warning",
-    "access": "/tmp/xray-access.log",
+    "access": "none",
     "error": "/tmp/xray-error.log"
   },
   "dns": {
@@ -27,10 +27,10 @@
       "settings": {
         "clients": [
           {
-            "id": "8fe1a71e-546b-48eb-b179-0059c55cbc5e",
+            "id": "0847b51b-560e-4a35-98f8-13e75b63578b",
             "flow": "",
             "level": 0,
-            "email": "user@swift-net-d94201"
+            "email": "user@quiet-bridge-6c8ec4"
           }
         ],
         "decryption": "none"
